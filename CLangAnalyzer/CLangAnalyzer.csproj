@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net45</TargetFramework>
+    <Copyright>2015</Copyright>
+    <Authors>Ivan Kochurkin</Authors>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="ClangSharp" Version="3.8.0" />
+  </ItemGroup>
+</Project>
